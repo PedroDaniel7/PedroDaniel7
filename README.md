@@ -94,10 +94,3 @@ Atualmente desenvolvo projetos próprios para praticar programação, lógica e 
 <br/>
 <br clear="both"/>
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats-6smzfmc49-pedrodaniels-projects.vercel.app/api?username=PedroDaniel7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats-6smzfmc49-pedrodaniels-projects.vercel.app/api/top-langs/?username=PedroDaniel7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" />
-</p>
-
