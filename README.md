@@ -14,13 +14,6 @@ Atualmente desenvolvo projetos próprios para praticar programação, lógica e 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/PedroDaniel7">
-        <img 
-            alt="GitHub"
-            title="Meu GitHub"
-            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
